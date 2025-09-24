@@ -1,0 +1,7 @@
+opencv-python
+numpy
+torch
+pickle-mixin
+matplotlib-pyplot
+PIL  
+streamlit_shadcn_ui 
