@@ -6,7 +6,7 @@ import pickle
 import base64
 import matplotlib.pyplot as plt
 from PIL import Image, ImageDraw, ImageFont
-import streamlit_shadcn_ui as ui
+#import streamlit_shadcn_ui as ui
 
 
 # Page setup
