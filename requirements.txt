@@ -2,6 +2,5 @@ opencv-python
 numpy
 torch
 pickle-mixin
-matplotlib-pyplot
+matplotlib
 PIL  
-streamlit_shadcn_ui 
