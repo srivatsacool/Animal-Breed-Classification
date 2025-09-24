@@ -3,4 +3,5 @@ numpy
 torch
 pickle-mixin
 matplotlib
-PIL  
+Pillow
+
