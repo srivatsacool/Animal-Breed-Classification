@@ -1,8 +1,9 @@
-opencv-python
-numpy
-torch
-pickle-mixin
-matplotlib
-Pillow
-torchvision
+streamlit==1.26.0
+pandas==2.1.0
+numpy==1.27.0
+joblib==1.3.2
+plotly==5.16.1
+requests==2.31.0
+
+
 
